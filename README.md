@@ -1,7 +1,6 @@
 # first-project
 <h1>These are my first few projects.</h1>
 <br>
-<h2>Hello there!</h2>
 <h1>Programs and Tools Used = </h1>
 <br>
 <li>Data Visual Studio</li>
